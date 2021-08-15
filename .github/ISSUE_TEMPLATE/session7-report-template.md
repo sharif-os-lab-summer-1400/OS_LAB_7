@@ -7,24 +7,24 @@ assignees: alimirferdos
 
 ---
 
-Team Name: `[FILL HERE]`
+Team Name: 97110285-97101286
 
-Student Name of member 1: `[FILL HERE]`
-Student No. of member 1: `[FILL HERE]`
+Student Name of member 1: Mohammadreza Abdi
+Student No. of member 1: 97110285
 
-Student Name of member 2: `[FILL HERE]`
-Student No. of member 2: `[FILL HERE]`
+Student Name of member 2: Alireza Ilami
+Student No. of member 2: 97101286
 
 - [ ] Read Session Contents.
 
 ## Section 7.4
 
 ### Section 7.4.1
-- [ ] Creating a thread using pthread
-    - [ ] `FILL HERE with screenshot of execution`
+- [X] Creating a thread using pthread
+    - [X] ![image](https://user-images.githubusercontent.com/45389577/129480882-4e4bd976-4b9c-42c4-8216-624f40026349.png)
    
 - [ ]  Checking the process ids
-    - [ ] `FILL HERE with screenshot of code`
+    - [x] ![image](https://user-images.githubusercontent.com/45389577/129481687-1df31a0f-d1c3-49f1-80bd-324d1cff766c.png)
     - [ ] `FILL HERE with execution of code`
     - [ ] `FILL HERE with your descriptions (write in English or Persian)`
 
