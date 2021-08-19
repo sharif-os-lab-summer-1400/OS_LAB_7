@@ -25,8 +25,8 @@ Student No. of member 2: 97101286
    
 - [ ]  Checking the process ids
     - [x] ![image](https://user-images.githubusercontent.com/45389577/129481687-1df31a0f-d1c3-49f1-80bd-324d1cff766c.png)
-    - [ ] `FILL HERE with execution of code`
-    - [ ] `FILL HERE with your descriptions (write in English or Persian)`
+    - [x] ![image](https://user-images.githubusercontent.com/45389577/130116244-b8ac26db-adb9-4f03-82d4-5fb2a8ea6919.png)
+    - [x] در این برنامه در دو جای مختلف شماره پردازه را چاپ کردیم. در تابع ریسه، پردازه ریسه مورد نظر است و در تابع اصلی نیز ریسه اصلی. همانطور که مشاهده میشود، این دو عدد یکی هستند. یعنی یک پردازه لزوما شامل فقط یک ریسه نیست. بلکه میتواند شامل چند ریسه باشد. و همه این ریسه ها در پردازه وشماره آن با یکدیگر مشترک هستند.
 
 - [ ]  Shared variables
     - [ ] `FILL HERE with screenshot of codes`
