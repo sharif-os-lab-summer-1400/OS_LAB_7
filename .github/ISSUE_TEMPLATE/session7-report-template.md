@@ -33,9 +33,9 @@ Student No. of member 2: 97101286
     - [x]  ![image](https://user-images.githubusercontent.com/45389577/130118411-44432458-ec6b-44a0-9398-98031185fe2d.png)
     - [x]  ما مقدار متغیر را در ریسه غیراصلی از 1 به 2 تغییر دادیم. و این نغییر در ریسه اصلی نیز لحاظ شد. و پس از ترد، در تابع اصلی نیز مقدار متغیر 2 است. و وقتی که ان را به 3 تغییر دهیم نیز به 3 تغییر میکند. این نشان میدهد که متغیرهای *سراسری* ربطی به ریسه ندارند و در کل پردازه یکسان هستند.
 
-- [ ] Sum of 2 to n
-    1. [ ] `[FILL HERE with screenshot of code]`
-    1. [ ] `[FILL HERE with screenshot of an execution of the code for n=(mean of team's student numbers)]`
+- [x] Sum of 2 to n
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/130132126-cea418c7-f26b-4a25-9d14-25a1760c9c1e.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/130132320-6a588551-57c6-448b-87bb-8e4e3fca28db.png)
 
 ### Section 7.4.2
 - [ ] Multiple threads    
