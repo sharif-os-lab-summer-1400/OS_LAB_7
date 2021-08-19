@@ -38,9 +38,9 @@ Student No. of member 2: 97101286
     1. [x] ![image](https://user-images.githubusercontent.com/45389577/130132320-6a588551-57c6-448b-87bb-8e4e3fca28db.png)
 
 ### Section 7.4.2
-- [ ] Multiple threads    
-    - [ ] `FILL HERE with screenshot of code`
-    - [ ] `FILL HERE with execution of code`
+- [x] Multiple threads    
+    - [x] ![image](https://user-images.githubusercontent.com/45389577/130135177-4b3181d8-d683-4926-b0dc-20cce4cf61fb.png)
+    - [x] ![image](https://user-images.githubusercontent.com/45389577/130135269-303c86f7-a620-40d2-ab94-d5065d57ecee.png)
 
 ### Section 7.4.3
 - [ ] Compiling the code
