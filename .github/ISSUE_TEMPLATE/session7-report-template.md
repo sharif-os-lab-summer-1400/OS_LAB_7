@@ -57,6 +57,6 @@ Student No. of member 2: 97101286
     - [x] مشاهده میکنیم که برای ریسه هایی که در یک پردازه قرار دارند، متغیرهای سراسری یکسان و متغیرهای محلی متفاوتند. اما برای ریسه های دو پردازه مختلف، هم متغیرهای سراسری و هم متغیرهای محلی متفاوتند. در تصویر مشاهده میشود که در دو خط آخر که چاپ شده، برای دو پردازه مختلف، متغیرها کاملا متفاوتند. ولو اینکه پردازه ها رابطه پدر و فرزندی داشته باشند و فورک کرده باشیم.
     
 ### Section 7.4.4
-- [ ] Passing multiple variables
-    - [ ] `FILL HERE with screenshot of code`
-    - [ ] `FILL HERE with screenshot of output`
+- [x] Passing multiple variables
+    - [x] ![image](https://user-images.githubusercontent.com/45389577/130328505-9bdf829b-456d-457e-b4da-0978f4e1c53c.png)
+    - [x] ![image](https://user-images.githubusercontent.com/45389577/130328522-a9d301e0-c11a-4e38-9f79-b3dfe4f2219b.png)
