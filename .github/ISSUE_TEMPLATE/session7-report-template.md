@@ -43,16 +43,19 @@ Student No. of member 2: 97101286
     - [x] ![image](https://user-images.githubusercontent.com/45389577/130135269-303c86f7-a620-40d2-ab94-d5065d57ecee.png)
 
 ### Section 7.4.3
-- [ ] Compiling the code
-    - [ ] `FILL HERE with screenshot of compilation`
+- [x] Compiling the code
+    - [x] ![image](https://user-images.githubusercontent.com/45389577/130323784-29c0a3ee-8e7a-4159-8647-c2ef38ede0ee.png)
+    - [x] NOTE: Without defining the global_param as a global variable, the code could not be compiled successfully. 
 
-- [ ] global_param
-    - [ ] `FILL HERE with screenshot of code`
-    - [ ] `FILL HERE with screenshot of output`
+- [x] global_param
+    - [x] ![image](https://user-images.githubusercontent.com/45389577/130324125-eaf171b3-089c-4e2b-82e9-fc7a4981d37d.png)
+    - [x] ![image](https://user-images.githubusercontent.com/45389577/130324137-f526af4d-8e52-4dd2-bfec-de4d55d0827b.png)
 
-- [ ] Forking
-    - [ ] `FILL HERE with screenshot of code`
-    - [ ] `FILL HERE with screenshot of output`
+- [x] Forking
+    - [x] ![image](https://user-images.githubusercontent.com/45389577/130326461-e8e49180-f3d1-4bd0-aefa-90412c4ee0ab.png)
+    - [x] ![image](https://user-images.githubusercontent.com/45389577/130326484-7e45ef7e-7175-4835-9838-e34ace8b5ff9.png)
+    - [x] مشاهده میکنیم که برای ریسه هایی که در یک پردازه قرار دارند، متغیرهای سراسری یکسان و متغیرهای محلی متفاوتند. اما برای ریسه های دو پردازه مختلف، هم متغیرهای سراسری و هم متغیرهای محلی متفاوتند. در تصویر مشاهده میشود که در دو خط آخر که چاپ شده، برای دو پردازه مختلف، متغیرها کاملا متفاوتند. ولو اینکه پردازه ها رابطه پدر و فرزندی داشته باشند و فورک کرده باشیم.
+    
 ### Section 7.4.4
 - [ ] Passing multiple variables
     - [ ] `FILL HERE with screenshot of code`
